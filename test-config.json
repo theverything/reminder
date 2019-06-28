@@ -1,0 +1,19 @@
+{
+  "reminders": [
+    {
+      "title": "Test 1",
+      "message": "32s",
+      "interval": "32s"
+    },
+    {
+      "title": "Test 2",
+      "message": "25s",
+      "interval": "25s"
+    },
+    {
+      "title": "Test 3",
+      "message": "13s",
+      "interval": "13s"
+    }
+  ]
+}
